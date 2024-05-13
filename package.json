@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "check-dependencies": "^2.0.0"
+  },
+  "dependencies": {
+    "ibm_db": "file:node-ibm_db",
+    "node-gyp": "^10.1.0"
+  }
+}
